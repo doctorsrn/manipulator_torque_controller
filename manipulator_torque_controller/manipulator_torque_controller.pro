@@ -1,7 +1,7 @@
 QT -= core
 QT -= gui
 
-TARGET = bubbleRobClient_remoteApi
+TARGET = manipulator_torque_controller
 TEMPLATE = app
 
 DEFINES -= UNICODE
